@@ -1,0 +1,182 @@
+[
+  {
+    "id": "fifa-21",
+    "name": "FIFA 21",
+    "platform": ["PlayStation 4", "Xbox One", "Nintendo Switch", "PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Sports",
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver, EA Romania",
+    "release_year": 2020,
+    "description": "FIFA 21 is a football simulation video game developed by EA Vancouver and EA Romania and published by Electronic Arts. It features improved player movement, refined attacking mechanics, and an Ultimate Team mode with co-op support."
+  },
+  {
+    "id": "god-of-war-ragnarok",
+    "name": "God of War Ragnarok",
+    "platform": ["PlayStation 4", "PlayStation 5", "PC"],
+    "genre": "Action-Adventure",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Santa Monica Studio",
+    "release_year": 2022,
+    "description": "God of War Ragnarok is an action-adventure game developed by Santa Monica Studio. It is the sequel to 2018's God of War and follows Kratos and Atreus as they journey through the Nine Realms in search of answers as Asgardian forces prepare for the prophesied battle of Ragnarok."
+  },
+  {
+    "id": "pokemon-red",
+    "name": "Pokemon Red",
+    "platform": ["Game Boy"],
+    "genre": "Role-Playing",
+    "publisher": "Nintendo",
+    "developer": "Game Freak",
+    "release_year": 1996,
+    "description": "Pokemon Red is a role-playing game developed by Game Freak and published by Nintendo for the Game Boy. It is the first installment of the Pokemon video game series and centers on the player capturing and training creatures called Pokemon to battle other trainers."
+  },
+  {
+    "id": "zelda-botw",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "platform": ["Nintendo Switch", "Wii U"],
+    "genre": "Action-Adventure",
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "release_year": 2017,
+    "description": "The Legend of Zelda: Breath of the Wild is an open-world action-adventure game in which players take control of Link as he awakens from a hundred-year slumber to defeat Calamity Ganon and save the kingdom of Hyrule."
+  },
+  {
+    "id": "rdr2",
+    "name": "Red Dead Redemption 2",
+    "platform": ["PlayStation 4", "Xbox One", "PC", "Stadia"],
+    "genre": "Action-Adventure",
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games",
+    "release_year": 2018,
+    "description": "Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world follows outlaw Arthur Morgan and the Van der Linde gang as they rob, fight, and steal their way across the rugged heartland of America."
+  },
+  {
+    "id": "cyberpunk-2077",
+    "name": "Cyberpunk 2077",
+    "platform": ["PlayStation 4", "Xbox One", "PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Role-Playing",
+    "publisher": "CD Projekt",
+    "developer": "CD Projekt Red",
+    "release_year": 2020,
+    "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where players take on the role of V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality."
+  },
+  {
+    "id": "elden-ring",
+    "name": "Elden Ring",
+    "platform": ["PlayStation 4", "Xbox One", "PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Action RPG",
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "FromSoftware",
+    "release_year": 2022,
+    "description": "Elden Ring is an action role-playing game developed by FromSoftware in collaboration with fantasy novelist George R. R. Martin. Set in the Lands Between, players journey through a vast open world to repair the shattered Elden Ring and become Elden Lord."
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+    "genre": "Sandbox",
+    "publisher": "Mojang Studios",
+    "developer": "Mojang Studios",
+    "release_year": 2011,
+    "description": "Minecraft is a sandbox game where players explore a procedurally generated 3D world made of blocks. They gather resources, craft tools and items, and build structures or earthworks. Modes include survival, creative, adventure, and spectator."
+  },
+  {
+    "id": "gta-v",
+    "name": "Grand Theft Auto V",
+    "platform": ["PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Action-Adventure",
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar North",
+    "release_year": 2013,
+    "description": "Grand Theft Auto V is an action-adventure game played from either a first-person or third-person perspective. Players freely roam the open countryside and the fictional city of Los Santos, switching between three protagonists: Michael, Trevor, and Franklin."
+  },
+  {
+    "id": "witcher-3",
+    "name": "The Witcher 3: Wild Hunt",
+    "platform": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Role-Playing",
+    "publisher": "CD Projekt",
+    "developer": "CD Projekt Red",
+    "release_year": 2015,
+    "description": "The Witcher 3: Wild Hunt is an open-world, story-driven role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. Play as Geralt of Rivia, a professional monster slayer."
+  },
+  {
+    "id": "mario-odyssey",
+    "name": "Super Mario Odyssey",
+    "platform": ["Nintendo Switch"],
+    "genre": "Platformer",
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "release_year": 2017,
+    "description": "Super Mario Odyssey is a platform game in which players control Mario as he traverses various worlds known as 'Kingdoms' on the hat-shaped airship, the Odyssey, to rescue Princess Peach from Bowser's plans of forced marriage."
+  },
+  {
+    "id": "halo-infinite",
+    "name": "Halo Infinite",
+    "platform": ["Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "First-Person Shooter",
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries",
+    "release_year": 2021,
+    "description": "Halo Infinite is a first-person shooter game in which the player assumes the role of the Master Chief, a supersoldier battling the Banished on a Forerunner artifact known as Zeta Halo."
+  },
+  {
+    "id": "ff7-remake",
+    "name": "Final Fantasy VII Remake",
+    "platform": ["PlayStation 4", "PlayStation 5", "PC"],
+    "genre": "Role-Playing",
+    "publisher": "Square Enix",
+    "developer": "Square Enix",
+    "release_year": 2020,
+    "description": "Final Fantasy VII Remake is an action role-playing game that retells the first segment of the original 1997 Final Fantasy VII story, following mercenary Cloud Strife as he joins eco-terrorist group AVALANCHE in their fight against the Shinra Electric Power Company."
+  },
+  {
+    "id": "hades",
+    "name": "Hades",
+    "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Roguelike",
+    "publisher": "Supergiant Games",
+    "developer": "Supergiant Games",
+    "release_year": 2020,
+    "description": "Hades is a rogue-like dungeon crawler in which you defy the god of the dead as you hack and slash your way out of the Underworld of Greek myth, playing as Zagreus, the immortal Prince of the Underworld."
+  },
+  {
+    "id": "stardew-valley",
+    "name": "Stardew Valley",
+    "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+    "genre": "Simulation",
+    "publisher": "ConcernedApe",
+    "developer": "ConcernedApe",
+    "release_year": 2016,
+    "description": "Stardew Valley is a country-life RPG and farming simulator. You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life."
+  },
+  {
+    "id": "animal-crossing-nh",
+    "name": "Animal Crossing: New Horizons",
+    "platform": ["Nintendo Switch"],
+    "genre": "Social Simulation",
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "release_year": 2020,
+    "description": "Animal Crossing: New Horizons is a social simulation game where players take on the role of a customizable character who moves to a deserted island after purchasing a getaway package from Tom Nook."
+  },
+  {
+    "id": "death-stranding",
+    "name": "Death Stranding",
+    "platform": ["PlayStation 4", "PC", "PlayStation 5"],
+    "genre": "Action",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Kojima Productions",
+    "release_year": 2019,
+    "description": "Death Stranding is an action game from acclaimed developer Hideo Kojima. As Sam Bridges, you must connect a fractured society by delivering critical supplies across a haunted, post-apocalyptic American landscape."
+  },
+  {
+    "id": "hollow-knight",
+    "name": "Hollow Knight",
+    "platform": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "genre": "Metroidvania",
+    "publisher": "Team Cherry",
+    "developer": "Team Cherry",
+    "release_year": 2017,
+    "description": "Hollow Knight is a 2D action-adventure Metroidvania in which players explore the ruined insect kingdom of Hallownest. Players control the Knight, a silent insect-like warrior, exploring a vast interconnected world full of bugs, beasts, and ancient secrets."
+  }
+]
